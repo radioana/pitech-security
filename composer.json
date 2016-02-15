@@ -1,0 +1,7 @@
+{
+    "name": "pitech/guard-security-bundle",
+    "description": "Security using GuardBundle.",
+    "require": {
+        "knpuniversity/guard-bundle": "dev-master"
+    }
+}

@@ -1,0 +1,5 @@
+parameters:
+    pitech_security_users:
+        forecast_app:
+            token: 'mcFntd-DmcjMnWcwuE5XIlaE66INWoUk'
+            roles: ['ROLE_USER']

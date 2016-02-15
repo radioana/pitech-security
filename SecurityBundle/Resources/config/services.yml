@@ -1,0 +1,8 @@
+services:
+    pitech_security.user_fetcher:
+        class: Pitech\SecurityBundle\Fetcher\UserFetcher
+        arguments: [%pitech_security_users%]
+
+    pitech_security.token_authenticator:
+        class: Pitech\SecurityBundle\Authenticator\TokenAuthenticator
+        arguments: ['@pitech_security.user_fetcher']
