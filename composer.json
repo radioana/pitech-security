@@ -10,7 +10,7 @@
             "reference": "master
         }
     }
-}]
+}],
 "require": {
   "knpuniversity/guard-bundle": "dev-master"
 }
