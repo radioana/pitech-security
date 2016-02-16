@@ -8,7 +8,6 @@
     "require": {
         "knpuniversity/guard-bundle": "0.3",
 	"knpuniversity/guard": "0.1"
-	
     },
     "minimum-stability": "master"
 }
