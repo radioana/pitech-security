@@ -1,11 +1,12 @@
 {
     "name": "radioana/pitech-security",
     "autoload": {
-        "psr-4" : {
-            "SecurityBundle\\" : "/"
+        "psr-4": {
+            "SecurityBundle\\": "/"
         }
     },
     "require": {
-	"knpuniversity/guard-bundle": "dev-master"
-    }
+        "knpuniversity/guard-bundle": "dev-master"
+    },
+    "minimum-stability": "dev-master"
 }
