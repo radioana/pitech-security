@@ -6,8 +6,8 @@
 	    "url": "https://github.com/radioana/pitech-security.git",
     }],
     "require": {
-	"radioana/pitech-security": "dev-master",
-        "knpuniversity/guard-bundle": "dev-master"
+        "knpuniversity/guard-bundle": "dev-master",
+	"radioana/pitech-security": "dev-master@dev",
     },
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
 }
