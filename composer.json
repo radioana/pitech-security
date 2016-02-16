@@ -6,7 +6,7 @@
         }
     },
     "require": {
-        "knpuniversity/guard-bundle": "dev-master"
+        "knpuniversity/guard-bundle": "0.3"
     },
     "minimum-stability": "master"
 }
