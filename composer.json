@@ -1,12 +1,11 @@
 {
     "name": "radioana/pitech-security",
-    "description": "Security bundle based on GuardBundle.",
-    "repositories": [{
-    "type": "vcs",
-    "url": "https://github.com/radioana/pitech-security.git",
-    }],
+    "autoload": {
+        "psr-0" : {
+            "SecurityBundle\\" : "/"
+        }
+    },
     "require": {
-	"radioana/pitech-security": "dev-master",
-        "knpuniversity/guard-bundle": "dev-master"
+	"knpuniversity/guard-bundle": "dev-master"
     }
 }
