@@ -7,7 +7,7 @@
     },
     "require": {
         "knpuniversity/guard-bundle": "0.3",
-	"symfony/security-bundle": "2.8.x-dev"
+	"symfony/security-bundle": "2.8.2"
     },
     "minimum-stability": "master"
 }
