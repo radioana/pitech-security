@@ -1,8 +1,8 @@
 {
     "name": "radioana/pitech-security",
     "autoload": {
-        "psr-4": {
-            "SecurityBundle\\": "/"
+        "psr-0": {
+            "SecurityBundle\\": ""
         }
     },
     "require": {
