@@ -8,5 +8,5 @@
     "require": {
         "knpuniversity/guard-bundle": "dev-master"
     },
-    "minimum-stability": "dev-master"
+    "minimum-stability": "master"
 }
